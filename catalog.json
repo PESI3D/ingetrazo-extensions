@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-02T21:47Z",
+ "generated": "2026-10-02T21:59Z",
  "tags": [
   "analysis",
   "architecture",
@@ -88,7 +88,9 @@
     "en": "IngeTrazo Bevel"
    },
    "summary": {
-    "en": "Chamfer or round selected edges and closed polygon mesh solids, with a preview and Undo/Redo."
+    "en": "Chamfer or round selected edges and closed polygon mesh solids, with a preview and Undo/Redo.",
+    "es": "Chaflana o redondea las aristas seleccionadas y sólidos cerrados de malla poligonal, con vista previa y deshacer/rehacer.",
+    "pt": "Chanfra ou arredonda as arestas selecionadas e sólidos fechados de malha poligonal, com prévia e desfazer/refazer."
    },
    "reviewed": true
   },
@@ -111,7 +113,9 @@
     "en": "IngeTrazo Kitchen Maker"
    },
    "summary": {
-    "en": "Create and edit parametric kitchen cabinets, arrange cabinet runs, and export CSV cost reports."
+    "en": "Create and edit parametric kitchen cabinets, arrange cabinet runs, and export CSV cost reports.",
+    "es": "Crea y edita muebles de cocina paramétricos, organiza filas de muebles y exporta informes de costos en CSV.",
+    "pt": "Cria e edita armários de cozinha paramétricos, organiza fileiras de armários e exporta relatórios de custos em CSV."
    },
    "reviewed": true
   },
@@ -133,7 +137,9 @@
     "en": "IngeTrazo Stair Maker with Railings"
    },
    "summary": {
-    "en": "Create editable straight, L-shaped and U-shaped stairs with optional glass or steel railings."
+    "en": "Create editable straight, L-shaped and U-shaped stairs with optional glass or steel railings.",
+    "es": "Crea escaleras editables rectas, en L y en U, con barandas opcionales de vidrio o acero.",
+    "pt": "Cria escadas editáveis retas, em L e em U, com guarda-corpos opcionais de vidro ou aço."
    },
    "reviewed": true
   },
