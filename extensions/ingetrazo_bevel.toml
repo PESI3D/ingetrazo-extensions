@@ -14,3 +14,5 @@ en = "IngeTrazo Bevel"
 
 [summary]
 en = "Chamfer or round selected edges and closed polygon mesh solids, with a preview and Undo/Redo."
+es = "Chaflana o redondea las aristas seleccionadas y sólidos cerrados de malla poligonal, con vista previa y deshacer/rehacer."
+pt = "Chanfra ou arredonda as arestas selecionadas e sólidos fechados de malha poligonal, com prévia e desfazer/refazer."
