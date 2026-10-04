@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T22:30Z",
+ "generated": "2026-10-04T22:31Z",
  "tags": [
   "analysis",
   "architecture",
@@ -212,6 +212,7 @@
     "drawing",
     "productivity"
    ],
+   "screenshot": "ingetrazo_taper.png",
    "name": {
     "en": "Taper Tool for IngeTrazo"
    },
