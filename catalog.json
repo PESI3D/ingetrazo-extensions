@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T13:03Z",
+ "generated": "2026-10-04T13:28Z",
  "tags": [
   "analysis",
   "architecture",
@@ -356,6 +356,29 @@
     "es": "Copias de la selección en 1D, 2D o 3D con mover, rotar y escalar por copia, como el diálogo Array de 3ds Max. Copia o instancia, vista previa y un solo paso de deshacer.",
     "en": "Copies of the selection in 1D, 2D or 3D with move, rotate and scale per copy, like the 3ds Max Array dialog. Copy or instance, live preview, one undo step.",
     "pt": "Cópias da seleção em 1D, 2D ou 3D com mover, girar e escalar por cópia, como o diálogo Array do 3ds Max. Cópia ou instância, prévia e um só passo de desfazer."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "ingetrazo_multiview",
+   "version": "1.0.5",
+   "author": "aashishzharbade-arch",
+   "author_url": "https://github.com/aashishzharbade-arch",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/aashishzharbade-arch/ingetrazo-extensions",
+   "download": "https://raw.githubusercontent.com/aashishzharbade-arch/ingetrazo-extensions/ingetrazo_multiview-v1.0.5-fixed/repository-upload/ingetrazo-multiview/ingetrazo_multiview.py",
+   "sha256": "568025f64f7ee34bc114cba9545de69a40774538a402a4dce32a7853983402a8",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "productivity",
+    "drawing"
+   ],
+   "screenshot": "ingetrazo_multiview.png",
+   "name": {
+    "en": "MultiView for IngeTrazo"
+   },
+   "summary": {
+    "en": "Synchronized Top, Perspective, Front and Right viewports in a dockable 2×2 layout with two-view mode and enlarge/restore controls."
    },
    "reviewed": false
   },
