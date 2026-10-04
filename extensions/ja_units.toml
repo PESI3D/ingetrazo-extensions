@@ -9,7 +9,7 @@ sha256 = "e5c008fcf0376be03f195a2483a09dad38a9e8824aa24be5036b87943981d504"
 ingetrazo = "0.5.7"
 tags = ["productivity", "architecture", "drawing"]
 
-screenshot = "ja_units.webp"
+screenshot = "ja_units_v2.webp"
 
 [name]
 es = "JA Units · Unidades"
