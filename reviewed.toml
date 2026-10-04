@@ -37,3 +37,8 @@ date = 2026-10-02
 sha256 = "bf0a1b7d0160673f5a1891ba62318102eae18cd59eb9c17741dc30e59ca8dee3"
 by = "tuxiasumari"
 date = 2026-10-02
+
+[ingetrazo_taper]
+sha256 = "9fda5ba66fd942cdcc45554ce488eca53cb837b757c7d342a8ac8c02c2c81862"
+by = "tuxiasumari"
+date = 2026-10-04
