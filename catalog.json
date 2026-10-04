@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T15:29Z",
+ "generated": "2026-10-04T22:30Z",
  "tags": [
   "analysis",
   "architecture",
@@ -219,6 +219,62 @@
     "en": "Taper selected mesh groups or loose meshes along a 3D axis with preview, numeric distances, copy mode, and Undo/Redo."
    },
    "reviewed": true
+  },
+  {
+   "id": "archxq_it",
+   "version": "0.9.1",
+   "author": "Orlando Souza · XQ",
+   "author_url": "https://github.com/equipexq",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/equipexq/archxq-it-lite",
+   "download": "https://github.com/equipexq/archxq-it-lite/releases/download/v0.9.1/archxq_it_lite-v0.9.1.zip",
+   "sha256": "f5214d211bda6cf18c5ba91f2cbeb44800d5480828eee655c2deea024e23f991",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "terrain",
+    "structures",
+    "drawing"
+   ],
+   "screenshot": "archxq_it.jpg",
+   "name": {
+    "es": "ArchXQ IT Lite · Arquitectura por fases",
+    "en": "ArchXQ IT Lite · Architecture by phases",
+    "pt": "ArchXQ IT Lite · Arquitetura por fases"
+   },
+   "summary": {
+    "es": "Proyecto por fases sobre niveles reales: terreno con excavaciones y rellenos en rampa, muros rectos y curvos, y pilares en fila o en malla que se ajustan a las caras de los muros.",
+    "en": "A project by phases on real levels: the plot with excavations and fills on ramps, straight and curved walls, and columns in rows or grids that snap to the wall faces.",
+    "pt": "Projeto por fases sobre níveis reais: terreno com escavações e aterros em rampa, paredes retas e curvas, e pilares em fila ou em grelha que se alinham às faces das paredes."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "node_editor",
+   "version": "1.0",
+   "author": "seghier",
+   "author_url": "https://github.com/seghier",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/seghier/IngeTrazoNodeEditor",
+   "download": "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.0/node_editor.zip",
+   "sha256": "f42dfb98e4201f6e0d3e03e301a3deb6290b2280ee58288af836885205a5447f",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "productivity",
+    "architecture"
+   ],
+   "screenshot": "node_editor.png",
+   "name": {
+    "es": "Editor de Nodos Paramétrico",
+    "en": "Parametric Node Editor",
+    "pt": "Editor de Nós Paramétrico"
+   },
+   "summary": {
+    "es": "Entorno de modelado paramétrico visual por nodos (tipo Grasshopper) para generar geometría 3D procedural, curvas, mallas y análisis.",
+    "en": "Visual parametric node programming environment (Grasshopper-style) for procedural 3D modeling, curves, meshes, and analysis.",
+    "pt": "Ambiente visual de modelagem paramétrica por nós (estilo Grasshopper) para gerar geometria 3D procedural, curvas e malhas."
+   },
+   "reviewed": false
   },
   {
    "id": "ingetrazo_curve_tools",
