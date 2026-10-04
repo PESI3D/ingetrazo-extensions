@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T10:12Z",
+ "generated": "2026-10-04T10:37Z",
  "tags": [
   "analysis",
   "architecture",
@@ -339,7 +339,7 @@
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-array",
-   "download": "https://raw.githubusercontent.com/PESI3D/ingetrazo-array/v1.1/array_tool.py",
+   "download": "https://github.com/PESI3D/ingetrazo-array/releases/download/v1.1/array_tool.py",
    "sha256": "9c0d3ae3d92e5efe18fae2d00beeb271eba51818f3200e3a1c11c4aa45e84103",
    "ingetrazo": "0.5.7",
    "tags": [
