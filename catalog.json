@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T05:08Z",
+ "generated": "2026-10-04T05:52Z",
  "tags": [
   "analysis",
   "architecture",
@@ -84,6 +84,7 @@
     "drawing",
     "productivity"
    ],
+   "screenshot": "ingetrazo_bevel.webp",
    "name": {
     "en": "IngeTrazo Bevel"
    },
@@ -133,6 +134,7 @@
     "architecture",
     "productivity"
    ],
+   "screenshot": "make_stair.webp",
    "name": {
     "en": "IngeTrazo Stair Maker with Railings"
    },
@@ -157,6 +159,7 @@
     "drawing",
     "education"
    ],
+   "screenshot": "niveles.webp",
    "name": {
     "es": "Niveles",
     "en": "Levels",
@@ -182,6 +185,7 @@
     "structures",
     "analysis"
    ],
+   "screenshot": "propiedades_poligono.webp",
    "name": {
     "es": "Propiedades del polígono",
     "en": "Polygon properties",
@@ -259,6 +263,7 @@
     "analysis",
     "rendering"
    ],
+   "screenshot": "ja_sun.webp",
    "name": {
     "es": "JA Sun · Sol y sombras",
     "en": "JA Sun · Sun and shadows",
@@ -286,6 +291,7 @@
     "productivity",
     "bim"
    ],
+   "screenshot": "ja_tree.webp",
    "name": {
     "es": "JA Tree · Árbol del modelo",
     "en": "JA Tree · Model outliner",
@@ -313,6 +319,7 @@
     "architecture",
     "drawing"
    ],
+   "screenshot": "ja_units.webp",
    "name": {
     "es": "JA Units · Unidades",
     "en": "JA Units · Units",
