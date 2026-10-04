@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T15:27Z",
+ "generated": "2026-10-04T15:29Z",
  "tags": [
   "analysis",
   "architecture",
@@ -341,7 +341,7 @@
     "architecture",
     "drawing"
    ],
-   "screenshot": "ja_units.webp",
+   "screenshot": "ja_units_v2.webp",
    "name": {
     "es": "JA Units · Unidades",
     "en": "JA Units · Units",
