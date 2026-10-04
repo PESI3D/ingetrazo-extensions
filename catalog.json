@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T22:31Z",
+ "generated": "2026-10-04T22:35Z",
  "tags": [
   "analysis",
   "architecture",
@@ -251,6 +251,34 @@
    "reviewed": false
   },
   {
+   "id": "quadrify_tool",
+   "version": "1.0",
+   "author": "Pesi (pesi3d.de)",
+   "author_url": "https://github.com/PESI3D",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/PESI3D/ingetrazo-quadrify",
+   "download": "https://github.com/PESI3D/ingetrazo-quadrify/releases/download/v1.0/quadrify_tool.py",
+   "sha256": "1f8da8408212b04c035bf8e9df3b035fc007fd6f3648642080cd0006b1241c75",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "import-export",
+    "terrain",
+    "productivity"
+   ],
+   "screenshot": "quadrify_tool.webp",
+   "name": {
+    "es": "Cuadrangular (Quadrify)",
+    "en": "Quadrify",
+    "pt": "Quadrangular (Quadrify)"
+   },
+   "summary": {
+    "es": "Convierte mallas trianguladas en caras de cuatro lados (pares planos en caras reales, curvos con diagonal suavizada) y rehace terrenos como cuadrícula de cuadriláteros. Vista previa.",
+    "en": "Turns triangulated meshes into four-sided faces (flat pairs become real quads, curved ones get a soft diagonal) and rebuilds terrain as a clean grid of quads. Live preview.",
+    "pt": "Converte malhas trianguladas em faces de quatro lados (pares planos viram faces reais, curvos ganham diagonal suavizada) e refaz terrenos como grade de quadriláteros. Prévia."
+   },
+   "reviewed": false
+  },
+  {
    "id": "node_editor",
    "version": "1.0",
    "author": "seghier",
@@ -439,6 +467,33 @@
    "reviewed": false
   },
   {
+   "id": "membrane_tool",
+   "version": "1.0",
+   "author": "Pesi (pesi3d.de)",
+   "author_url": "https://github.com/PESI3D",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/PESI3D/ingetrazo-membrane",
+   "download": "https://github.com/PESI3D/ingetrazo-membrane/releases/download/v1.0/membrane_tool.py",
+   "sha256": "715a567345a435bcc6981d595b58c4901d88f8aa2facd95ad31081af32d2788a",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "structures"
+   ],
+   "screenshot": "membrane_tool.webp",
+   "name": {
+    "es": "Membrana (Membrane)",
+    "en": "Membrane",
+    "pt": "Membrana (Membrane)"
+   },
+   "summary": {
+    "es": "Superficies mínimas tensadas desde un contorno de aristas: carpas, velas y cojines con presión, anillos de mástil, cables y puntos fijos. Vista previa en vivo y editable después.",
+    "en": "Tensile minimal surfaces from a loop of edges: tents, sails and pressurised cushions, with mast rings, cables and fixed points. Live preview, editable afterwards.",
+    "pt": "Superfícies mínimas tensionadas a partir de um contorno de arestas: tendas, velas e almofadas com pressão, anéis de mastro, cabos e pontos fixos. Prévia ao vivo e editável depois."
+   },
+   "reviewed": false
+  },
+  {
    "id": "ingetrazo_multiview",
    "version": "1.0.5",
    "author": "aashishzharbade-arch",
@@ -485,6 +540,34 @@
     "es": "Renderiza la ventana gráfica 3D con flujos de trabajo de ComfyUI y superpone el resultado en tiempo real con control de opacidad.",
     "en": "Renders the 3D viewport using ComfyUI workflows and displays real-time AI viewport overlays with opacity blending.",
     "pt": "Renderiza a viewport 3D usando fluxos ComfyUI e exibe sobreposições de IA em tempo real com controle de opacidade."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "weld_tool",
+   "version": "1.0",
+   "author": "Pesi (pesi3d.de)",
+   "author_url": "https://github.com/PESI3D",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/PESI3D/ingetrazo-weld",
+   "download": "https://github.com/PESI3D/ingetrazo-weld/releases/download/v1.0/weld_tool.py",
+   "sha256": "26773d2fbbdacb52faeb0783e371c4e826f65ca0eb241aa4482123cd9e3fd164",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "drawing",
+    "import-export",
+    "productivity"
+   ],
+   "screenshot": "weld_tool.webp",
+   "name": {
+    "es": "Soldar (Weld)",
+    "en": "Weld",
+    "pt": "Soldar (Weld)"
+   },
+   "summary": {
+    "es": "Une aristas sueltas en curvas que se seleccionan con un clic y cierra pequeños huecos: ideal para planos importados de DXF, DWG o PDF. Vista previa y un solo paso de deshacer.",
+    "en": "Joins loose edges into curves that select with one click and closes small gaps — ideal for plans imported from DXF, DWG or PDF. Preview and one undo step.",
+    "pt": "Une arestas soltas em curvas que se selecionam com um clique e fecha pequenas lacunas — ideal para plantas importadas de DXF, DWG ou PDF. Prévia e um só passo de desfazer."
    },
    "reviewed": false
   },
