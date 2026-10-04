@@ -9,6 +9,8 @@ sha256 = "9d8cb4af83c946ffb6b7fbe16c3b5f73b26df442792005665785cf0e757c2dc7"
 ingetrazo = "0.5.7"
 tags = ["architecture", "productivity", "bim"]
 
+screenshot = "ja_tree.webp"
+
 [name]
 es = "JA Tree · Árbol del modelo"
 en = "JA Tree · Model outliner"

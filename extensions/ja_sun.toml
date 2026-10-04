@@ -9,6 +9,8 @@ sha256 = "63a3a41a0ac2948c30a72e44c62c2e4a9134d06e7001c41f9ad3a76686bfc4f3"
 ingetrazo = "0.5.7"
 tags = ["architecture", "analysis", "rendering"]
 
+screenshot = "ja_sun.webp"
+
 [name]
 es = "JA Sun · Sol y sombras"
 en = "JA Sun · Sun and shadows"
