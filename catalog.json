@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-02T21:59Z",
+ "generated": "2026-10-04T05:08Z",
  "tags": [
   "analysis",
   "architecture",
@@ -193,6 +193,218 @@
     "pt": "Área, perímetro, centroide e momentos de segunda ordem das faces selecionadas, com furos e seções compostas."
    },
    "reviewed": true
+  },
+  {
+   "id": "ingetrazo_curve_tools",
+   "version": "1.0.0",
+   "author": "aashishzharbade-arch",
+   "author_url": "https://github.com/aashishzharbade-arch",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/aashishzharbade-arch/ingetrazo-extensions",
+   "download": "https://raw.githubusercontent.com/aashishzharbade-arch/ingetrazo-extensions/ingetrazo_curve_tools-v1.0.0/repository-upload/ingetrazo_curve_tools/ingetrazo_curve_tools.py",
+   "sha256": "617d9bcaa8c8343eaabd8ca9276a4aa08d600451c30b7e5503313229281d1eb0",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "drawing",
+    "productivity"
+   ],
+   "screenshot": "ingetrazo_curve_tool.png",
+   "name": {
+    "en": "IngeTrazo Curve Tools"
+   },
+   "summary": {
+    "en": "Create and edit Bézier curves, chains and splines with coordinate, sampling, and closed-loop controls."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "ja_lineastyle",
+   "version": "0.1.2",
+   "author": "Julio Angulo",
+   "author_url": "https://github.com/wrc86",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/wrc86/ja-lineastyle-ingetrazo",
+   "download": "https://raw.githubusercontent.com/wrc86/ja-lineastyle-ingetrazo/v0.1.2/dist/ja_lineastyle-0.1.2.zip",
+   "sha256": "b14c7d6cb6d8a3749c10dcc320e0f8043ae3679371cb41e9a01862c95a265be9",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "drawing",
+    "architecture"
+   ],
+   "screenshot": "ja_lineastyle.png",
+   "name": {
+    "es": "JA LineaStyle",
+    "en": "JA LineaStyle",
+    "pt": "JA LineaStyle"
+   },
+   "summary": {
+    "es": "Dibuja líneas 3D con color, grosor y estilo (continua, punteada, interrumpida…) en una sola malla; los contornos cerrados coplanares forman caras.",
+    "en": "Draw 3D lines with colour, weight and style (solid, dotted, dashed…) in a single mesh; closed coplanar outlines become faces.",
+    "pt": "Desenha linhas 3D com cor, espessura e estilo (contínua, pontilhada, tracejada…) numa única malha; contornos fechados coplanares formam faces."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "ja_sun",
+   "version": "0.1.0",
+   "author": "Julio Angulo",
+   "author_url": "https://github.com/wrc86",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/wrc86/ja-sun-ingetrazo",
+   "download": "https://raw.githubusercontent.com/wrc86/ja-sun-ingetrazo/v0.1.0/dist/ja_sun-0.1.0.zip",
+   "sha256": "63a3a41a0ac2948c30a72e44c62c2e4a9134d06e7001c41f9ad3a76686bfc4f3",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "analysis",
+    "rendering"
+   ],
+   "name": {
+    "es": "JA Sun · Sol y sombras",
+    "en": "JA Sun · Sun and shadows",
+    "pt": "JA Sun · Sol e sombras"
+   },
+   "summary": {
+    "es": "Panel de estudio solar: fecha, hora, ubicación, norte, intensidad de sombra, recorrido solar interactivo y animación del día, con ajustes guardados en el modelo.",
+    "en": "Solar study panel: date, time, location, north, shadow intensity, interactive sun path and day animation, with settings saved in the model.",
+    "pt": "Painel de estudo solar: data, hora, localização, norte, intensidade da sombra, trajetória solar interativa e animação do dia, com ajustes salvos no modelo."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "ja_tree",
+   "version": "0.1.0",
+   "author": "Julio Angulo",
+   "author_url": "https://github.com/wrc86",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/wrc86/ja-tree-ingetrazo",
+   "download": "https://raw.githubusercontent.com/wrc86/ja-tree-ingetrazo/v0.1.0/dist/ja_tree-0.1.0.zip",
+   "sha256": "9d8cb4af83c946ffb6b7fbe16c3b5f73b26df442792005665785cf0e757c2dc7",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "productivity",
+    "bim"
+   ],
+   "name": {
+    "es": "JA Tree · Árbol del modelo",
+    "en": "JA Tree · Model outliner",
+    "pt": "JA Tree · Árvore do modelo"
+   },
+   "summary": {
+    "es": "Árbol de grupos, componentes y planos de sección con búsqueda, visibilidad, bloqueo y organización por arrastre. Interfaz en español, inglés y francés.",
+    "en": "Outliner of groups, components and section planes with search, visibility, locking and drag-and-drop organisation. Spanish, English and French UI.",
+    "pt": "Árvore de grupos, componentes e planos de corte com busca, visibilidade, bloqueio e organização por arrastar. Interface em espanhol, inglês e francês."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "ja_units",
+   "version": "0.1.0",
+   "author": "Julio Angulo",
+   "author_url": "https://github.com/wrc86",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/wrc86/ja-units-ingetrazo",
+   "download": "https://raw.githubusercontent.com/wrc86/ja-units-ingetrazo/v0.1.0/dist/ja_units-0.1.0.zip",
+   "sha256": "e5c008fcf0376be03f195a2483a09dad38a9e8824aa24be5036b87943981d504",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "productivity",
+    "architecture",
+    "drawing"
+   ],
+   "name": {
+    "es": "JA Units · Unidades",
+    "en": "JA Units · Units",
+    "pt": "JA Units · Unidades"
+   },
+   "summary": {
+    "es": "Cambia en un clic la unidad y la precisión del modelo (mm, cm, m, pulgadas, pies y fraccionales) desde un panel y una barra, con presets propios y sin escalar la geometría.",
+    "en": "Switch the model's unit and precision in one click (mm, cm, m, inches, feet and fractional) from a panel and toolbar, with custom presets and no geometry scaling.",
+    "pt": "Muda num clique a unidade e a precisão do modelo (mm, cm, m, polegadas, pés e frações) a partir de um painel e uma barra, com presets próprios e sem escalar a geometria."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "array_tool",
+   "version": "1.0",
+   "author": "Pesi (pesi3d.de)",
+   "author_url": "https://github.com/PESI3D",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/PESI3D/ingetrazo-array",
+   "download": "https://raw.githubusercontent.com/PESI3D/ingetrazo-array/v1.0/array_tool.py",
+   "sha256": "757b0dd642b46016c914d74c821a7881d689e000fcf451071f5388b371a2fe53",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "productivity",
+    "drawing"
+   ],
+   "screenshot": "array_tool.png",
+   "name": {
+    "es": "Matriz (Array)",
+    "en": "Array",
+    "pt": "Matriz (Array)"
+   },
+   "summary": {
+    "es": "Copias de la selección en 1D, 2D o 3D con mover, rotar y escalar por copia, como el diálogo Array de 3ds Max. Copia o instancia, vista previa y un solo paso de deshacer.",
+    "en": "Copies of the selection in 1D, 2D or 3D with move, rotate and scale per copy, like the 3ds Max Array dialog. Copy or instance, live preview, one undo step.",
+    "pt": "Cópias da seleção em 1D, 2D ou 3D com mover, girar e escalar por cópia, como o diálogo Array do 3ds Max. Cópia ou instância, prévia e um só passo de desfazer."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "comfyui_renderer",
+   "version": "1.0",
+   "author": "seghier",
+   "author_url": "https://github.com/seghier",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/seghier/IngeTrazoComfyUIRenderer",
+   "download": "https://github.com/seghier/IngeTrazoComfyUIRenderer/releases/download/v1.0/comfyui_renderer.zip",
+   "sha256": "1869318cd0f2760bc1c41d8f4271ddf5c146e5016a68547bb0ffae28963a7c84",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "rendering",
+    "productivity"
+   ],
+   "screenshot": "comfyui_renderer.png",
+   "name": {
+    "es": "Renderizador ComfyUI de Ventana Gráfica",
+    "en": "ComfyUI Viewport Renderer",
+    "pt": "Renderizador ComfyUI de Viewport"
+   },
+   "summary": {
+    "es": "Renderiza la ventana gráfica 3D con flujos de trabajo de ComfyUI y superpone el resultado en tiempo real con control de opacidad.",
+    "en": "Renders the 3D viewport using ComfyUI workflows and displays real-time AI viewport overlays with opacity blending.",
+    "pt": "Renderiza a viewport 3D usando fluxos ComfyUI e exibe sobreposições de IA em tempo real com controle de opacidade."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "topology_tool",
+   "version": "1.0",
+   "author": "Pesi (pesi3d.de)",
+   "author_url": "https://github.com/PESI3D",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/PESI3D/ingetrazo-topology",
+   "download": "https://raw.githubusercontent.com/PESI3D/ingetrazo-topology/v1.0/topology_tool.py",
+   "sha256": "dc7ab305f3698a849d6789cd495c7569952b99b791b1d877a0a0a6feacd50189",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "terrain",
+    "architecture"
+   ],
+   "screenshot": "topology_tool.png",
+   "name": {
+    "es": "Topología (terreno)",
+    "en": "Topology (terrain)",
+    "pt": "Topologia (terreno)"
+   },
+   "summary": {
+    "es": "Terreno a partir de curvas de nivel o puntos: malla suave o TIN de Delaunay, editor de cotas, limpieza de líneas, zócalo con base cerrada y vista previa en vivo.",
+    "en": "Terrain from contour lines or points: smooth grid or Delaunay TIN, altitude editor, line clean-up, skirt with closed base and live preview.",
+    "pt": "Terreno a partir de curvas de nível ou pontos: malha suave ou TIN de Delaunay, editor de cotas, limpeza de linhas, saia com base fechada e prévia ao vivo."
+   },
+   "reviewed": false
   }
  ]
 }
