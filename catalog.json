@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-05T17:48Z",
+ "generated": "2026-10-05T21:07Z",
  "tags": [
   "analysis",
   "architecture",
@@ -222,6 +222,31 @@
    "reviewed": true
   },
   {
+   "id": "perspective_matcher",
+   "version": "1.0",
+   "author": "Seghier Mohamed Abdellatif",
+   "author_url": "https://github.com/seghier",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/seghier/IngeTrazoPerspectiveMatcher",
+   "download": "https://github.com/seghier/IngeTrazoPerspectiveMatcher/releases/download/v1.0/perspective_matcher.zip",
+   "sha256": "bf4974ecf495d7b350154a01bd54eddf59d5cba82952a4a73e7d6943331adcdb",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "drawing",
+    "productivity"
+   ],
+   "name": {
+    "en": "Perspective Matcher",
+    "es": "Ajuste de Perspectiva"
+   },
+   "summary": {
+    "en": "Match 3D viewport camera to architectural photographs with interactive vanishing lines.",
+    "es": "Ajusta la cámara 3D a fotografías arquitectónicas con líneas de fuga interactivas."
+   },
+   "reviewed": false
+  },
+  {
    "id": "archxq_it",
    "version": "0.9.2",
    "author": "Orlando Souza · XQ",
@@ -247,6 +272,61 @@
     "es": "Proyecto por fases sobre niveles reales: terreno con excavaciones y rellenos en rampa, muros rectos y curvos, y pilares en fila o en malla que se ajustan a las caras de los muros.",
     "en": "A project by phases on real levels: the plot with excavations and fills on ramps, straight and curved walls, and columns in rows or grids that snap to the wall faces.",
     "pt": "Projeto por fases sobre níveis reais: terreno com escavações e aterros em rampa, paredes retas e curvas, e pilares em fila ou em grelha que se alinham às faces das paredes."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "organize_toolbar",
+   "version": "1.0",
+   "author": "seghier",
+   "author_url": "https://github.com/seghier",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/seghier/ingetrazo-organize-toolbar",
+   "download": "https://github.com/seghier/ingetrazo-organize-toolbar/releases/download/v1.0/organize_toolbar.zip",
+   "sha256": "ed1aa832f2baad518d86e3fa422c5ebe36f62352674d215c1221a07ee885fe39",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "productivity",
+    "drawing"
+   ],
+   "screenshot": "organize_toolbar.png",
+   "name": {
+    "en": "Organize Toolbar",
+    "es": "Barra de Organización",
+    "pt": "Barra de Organização"
+   },
+   "summary": {
+    "en": "Dedicated toolbars for Hide, Unhide Last/All, Reverse Faces, Make Group and Explode, plus quick style switching.",
+    "es": "Barras para Ocultar, Mostrar último/todo, Invertir caras, Crear grupo y Desagrupar, y para cambiar de estilo con un clic.",
+    "pt": "Barras para Ocultar, Exibir último/tudo, Inverter faces, Criar grupo e Desagrupar, e para trocar de estilo com um clique."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "igz_toolbars",
+   "version": "1.4.0",
+   "author": "Ezequiel M. Rezende",
+   "author_url": "https://github.com/em-rezende",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/em-rezende/Ingetrazo-igz-toolbars",
+   "download": "https://github.com/em-rezende/Ingetrazo-igz-toolbars/releases/download/v1.4.0/igz_toolbars.zip",
+   "sha256": "b495e6c05d5a9010bf4e32201e9409ededa4d183c09704a83f23af5fc734b4b8",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "rendering",
+    "drawing",
+    "productivity"
+   ],
+   "screenshot": "igz_toolbars.png",
+   "name": {
+    "es": "Barras de estilos y sombras",
+    "en": "Styles and Shadows toolbars",
+    "pt": "Barras de estilos e sombras"
+   },
+   "summary": {
+    "es": "Dos barras: la de estilos replica el menú Cámara ▸ Estilo con 13 botones, y la de sombras añade un interruptor y deslizadores de fecha, hora e intensidad.",
+    "en": "Two toolbars: the Styles one mirrors the Camera ▸ Style menu with 13 buttons, and the Shadows one adds a toggle plus date, time and intensity sliders.",
+    "pt": "Duas barras: a de estilos espelha o menu Câmera ▸ Estilo com 13 botões, e a de sombras traz um botão e sliders de data, hora e intensidade."
    },
    "reviewed": false
   },
