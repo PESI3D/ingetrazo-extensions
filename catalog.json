@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-04T23:29Z",
+ "generated": "2026-10-05T14:28Z",
  "tags": [
   "analysis",
   "architecture",
@@ -280,13 +280,13 @@
   },
   {
    "id": "node_editor",
-   "version": "1.0",
+   "version": "1.1",
    "author": "seghier",
    "author_url": "https://github.com/seghier",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/seghier/IngeTrazoNodeEditor",
-   "download": "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.0/node_editor.zip",
-   "sha256": "f42dfb98e4201f6e0d3e03e301a3deb6290b2280ee58288af836885205a5447f",
+   "download": "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.1/node_editor.zip",
+   "sha256": "655289704b9f16b76324ccb3d92b5b6d220bfc1184c095fb3d837207ccb57907",
    "ingetrazo": "0.5.7",
    "tags": [
     "productivity",
@@ -517,6 +517,33 @@
    "reviewed": false
   },
   {
+   "id": "grading_tool",
+   "version": "1.0",
+   "author": "Pesi (pesi3d.de)",
+   "author_url": "https://github.com/PESI3D",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/PESI3D/ingetrazo-grading",
+   "download": "https://github.com/PESI3D/ingetrazo-grading/releases/download/v1.0/grading_tool.py",
+   "sha256": "42a84d07c28c607032f3e58a4e5b4d16ad173ac7e3eb0e5bbc508e83b078f072",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "terrain",
+    "architecture"
+   ],
+   "screenshot": "grading_tool.webp",
+   "name": {
+    "es": "Nivelación de terreno (Grading)",
+    "en": "Grading",
+    "pt": "Terraplenagem (Grading)"
+   },
+   "summary": {
+    "es": "Rellena el terreno libre entre aristas (camino, terraza, rampa, plaza rebajada) con un terreno suave y orgánico que toca cada arista. Vista previa en vivo y un solo paso de deshacer.",
+    "en": "Fills the open ground between edges (path, terrace, ramp, sunken plaza) with smooth, organic terrain that meets every edge. Live preview and one undo step.",
+    "pt": "Preenche o terreno livre entre arestas (caminho, terraço, rampa, praça rebaixada) com um terreno suave e orgânico que toca cada aresta. Prévia ao vivo e um só passo de desfazer."
+   },
+   "reviewed": false
+  },
+  {
    "id": "comfyui_renderer",
    "version": "1.0",
    "author": "seghier",
@@ -540,6 +567,33 @@
     "es": "Renderiza la ventana gráfica 3D con flujos de trabajo de ComfyUI y superpone el resultado en tiempo real con control de opacidad.",
     "en": "Renders the 3D viewport using ComfyUI workflows and displays real-time AI viewport overlays with opacity blending.",
     "pt": "Renderiza a viewport 3D usando fluxos ComfyUI e exibe sobreposições de IA em tempo real com controle de opacidade."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "path_select_tool",
+   "version": "1.0",
+   "author": "Pesi (pesi3d.de)",
+   "author_url": "https://github.com/PESI3D",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/PESI3D/ingetrazo-path-select",
+   "download": "https://github.com/PESI3D/ingetrazo-path-select/releases/download/v1.0/path_select_tool.py",
+   "sha256": "7b489ba90dd70b4079a65cc64532f94be5fb6bdefe04f3e802e6917bd791a23e",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "drawing",
+    "productivity"
+   ],
+   "screenshot": "path_select_tool.webp",
+   "name": {
+    "es": "Selección de recorrido (Path Select)",
+    "en": "Path Select",
+    "pt": "Seleção de caminho (Path Select)"
+   },
+   "summary": {
+    "es": "Haz clic en algunos puntos a lo largo de un contorno: el camino más corto por las aristas se completa y se selecciona. Ideal para curvas de nivel y planos importados de DXF, DWG o PDF.",
+    "en": "Click a few points along a contour and the shortest way along the edges is filled in and selected. Ideal for contour lines and plans imported from DXF, DWG or PDF.",
+    "pt": "Clique em alguns pontos ao longo de um contorno e o caminho mais curto pelas arestas é completado e selecionado. Ideal para curvas de nível e plantas importadas de DXF, DWG ou PDF."
    },
    "reviewed": false
   },
