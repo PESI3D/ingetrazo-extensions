@@ -42,3 +42,8 @@ date = 2026-10-02
 sha256 = "9fda5ba66fd942cdcc45554ce488eca53cb837b757c7d342a8ac8c02c2c81862"
 by = "tuxiasumari"
 date = 2026-10-04
+
+[planarq]
+sha256 = "e1073d8c42d45921fc4ab626aff40c7f3f8c7a592878e9c55e3b4aa25dcad01b"
+by = "tuxiasumari"
+date = 2026-10-05
