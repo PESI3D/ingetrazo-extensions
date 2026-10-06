@@ -1,0 +1,25 @@
+id = "opentrace_bim"
+version = "0.11.0"
+author = "Leandro Lopes"
+author_url = "https://github.com/lelopes05"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/lelopes05/opentrace-bim"
+download = "https://github.com/lelopes05/opentrace-bim/releases/download/v0.11.0/OpenTrace_BIM_0.11.0.zip"
+sha256 = "68bf532c46ea8b7a2afd30e0a242f8a7aeaf473d73a5ad6f1a2bae5a7dcae02a"
+
+ingetrazo = "0.5.7"
+
+tags = ["architecture", "bim", "structures", "productivity"]
+screenshot = "opentrace_bim.webp"
+
+[name]
+es = "OpenTrace BIM"
+en = "OpenTrace BIM"
+pt = "OpenTrace BIM"
+
+[summary]
+es = "BIM paramétrico para arquitectura en IngeTrazo: muros rectos y curvos multicapa, losas, pilares, vigas, huecos, perfiles complejos, presets, materiales nativos y edición gráfica persistente."
+en = "Parametric BIM for architecture in IngeTrazo: straight and curved multilayer walls, slabs, columns, beams, openings, complex profiles, presets, native materials and persistent graphical editing."
+pt = "BIM paramétrico para arquitetura no IngeTrazo: paredes retas e curvas multicamadas, lajes, pilares, vigas, aberturas, perfis complexos, presets, materiais nativos e edição gráfica persistente."
