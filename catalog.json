@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-05T21:19Z",
+ "generated": "2026-10-06T03:27Z",
  "tags": [
   "analysis",
   "architecture",
@@ -331,13 +331,13 @@
   },
   {
    "id": "igz_toolbars",
-   "version": "1.4.0",
+   "version": "1.5.0",
    "author": "Ezequiel M. Rezende",
    "author_url": "https://github.com/em-rezende",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/em-rezende/Ingetrazo-igz-toolbars",
-   "download": "https://github.com/em-rezende/Ingetrazo-igz-toolbars/releases/download/v1.4.0/igz_toolbars.zip",
-   "sha256": "b495e6c05d5a9010bf4e32201e9409ededa4d183c09704a83f23af5fc734b4b8",
+   "download": "https://github.com/em-rezende/Ingetrazo-igz-toolbars/releases/download/v1.5.0/igz_toolbars.zip",
+   "sha256": "854d0874dc68b04908e8b74f5d581574560dfb962bf645bf3a1624a1427904d4",
    "ingetrazo": "0.5.7",
    "tags": [
     "rendering",
@@ -351,9 +351,9 @@
     "pt": "Barras de estilos e sombras"
    },
    "summary": {
-    "es": "Dos barras: la de estilos replica el menú Cámara ▸ Estilo con 13 botones, y la de sombras añade un interruptor y deslizadores de fecha, hora e intensidad.",
-    "en": "Two toolbars: the Styles one mirrors the Camera ▸ Style menu with 13 buttons, and the Shadows one adds a toggle plus date, time and intensity sliders.",
-    "pt": "Duas barras: a de estilos espelha o menu Câmera ▸ Estilo com 13 botões, e a de sombras traz um botão e sliders de data, hora e intensidade."
+    "es": "Dos barras inspiradas en SketchUp: la de estilos replica el menú Cámara ▸ Estilo con 13 botones, y la de sombras añade un interruptor y deslizadores de fecha, hora e intensidad.",
+    "en": "Two SketchUp-inspired toolbars: the Styles one mirrors the Camera ▸ Style menu with 13 buttons, and the Shadows one adds a toggle plus date, time and intensity sliders.",
+    "pt": "Duas barras inspiradas no SketchUp: a de estilos espelha o menu Câmera ▸ Estilo com 13 botões, e a de sombras traz um botão e sliders de data, hora e intensidade."
    },
    "reviewed": false
   },
