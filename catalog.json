@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-06T03:27Z",
+ "generated": "2026-10-06T14:36Z",
  "tags": [
   "analysis",
   "architecture",
@@ -250,13 +250,13 @@
   },
   {
    "id": "perspective_matcher",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Seghier Mohamed Abdellatif",
    "author_url": "https://github.com/seghier",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/seghier/IngeTrazoPerspectiveMatcher",
-   "download": "https://github.com/seghier/IngeTrazoPerspectiveMatcher/releases/download/v1.0/perspective_matcher.zip",
-   "sha256": "bf4974ecf495d7b350154a01bd54eddf59d5cba82952a4a73e7d6943331adcdb",
+   "download": "https://github.com/seghier/IngeTrazoPerspectiveMatcher/releases/download/v1.1/perspective_matcher.zip",
+   "sha256": "042e4b96a94b756eda9aabe550ee092f45a1b53466f999ce6bec2a5881c2e5bd",
    "ingetrazo": "0.5.7",
    "tags": [
     "architecture",
@@ -275,13 +275,13 @@
   },
   {
    "id": "archxq_it",
-   "version": "0.9.2",
+   "version": "0.9.3",
    "author": "Orlando Souza · XQ",
    "author_url": "https://github.com/equipexq",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/equipexq/archxq-it-lite",
-   "download": "https://github.com/equipexq/archxq-it-lite/releases/download/v0.9.2/archxq_it_lite-v0.9.2.zip",
-   "sha256": "f8f13ba11c1e5dad525174adfcf3a472a073b3cae158bd6b831fcbd04df01232",
+   "download": "https://github.com/equipexq/archxq-it-lite/releases/download/v0.9.3/archxq_it_lite-v0.9.3.zip",
+   "sha256": "835211ce1320060c539c641e059acfca4150c209e5117252cc743746e368eacb",
    "ingetrazo": "0.5.7",
    "tags": [
     "architecture",
@@ -304,13 +304,13 @@
   },
   {
    "id": "organize_toolbar",
-   "version": "1.0",
+   "version": "1.1",
    "author": "seghier",
    "author_url": "https://github.com/seghier",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/seghier/ingetrazo-organize-toolbar",
-   "download": "https://github.com/seghier/ingetrazo-organize-toolbar/releases/download/v1.0/organize_toolbar.zip",
-   "sha256": "ed1aa832f2baad518d86e3fa422c5ebe36f62352674d215c1221a07ee885fe39",
+   "download": "https://github.com/seghier/ingetrazo-organize-toolbar/releases/download/v1.1/organize_toolbar.zip",
+   "sha256": "2b25dc8f1f7116389a3eb62639855d38b781527d4da51121410119c4b7ece15d",
    "ingetrazo": "0.5.7",
    "tags": [
     "productivity",
@@ -323,9 +323,9 @@
     "pt": "Barra de Organização"
    },
    "summary": {
-    "en": "Dedicated toolbars for Hide, Unhide Last/All, Reverse Faces, Make Group and Explode, plus quick style switching.",
-    "es": "Barras para Ocultar, Mostrar último/todo, Invertir caras, Crear grupo y Desagrupar, y para cambiar de estilo con un clic.",
-    "pt": "Barras para Ocultar, Exibir último/tudo, Inverter faces, Criar grupo e Desagrupar, e para trocar de estilo com um clique."
+    "en": "Dedicated toolbar for Hide, Unhide Last/All, Reverse Faces, Make Group, and Explode Group.",
+    "es": "Barra dedicada para Ocultar, Mostrar Último/Todo, Invertir Caras, Crear Grupo y Desagrupar.",
+    "pt": "Barra dedicada para Ocultar, Exibir Último/Tudo, Inverter Faces, Criar Grupo e Desagrupar."
    },
    "reviewed": false
   },
@@ -624,6 +624,33 @@
     "es": "Superficies mínimas tensadas desde un contorno de aristas: carpas, velas y cojines con presión, anillos de mástil, cables y puntos fijos. Vista previa en vivo y editable después.",
     "en": "Tensile minimal surfaces from a loop of edges: tents, sails and pressurised cushions, with mast rings, cables and fixed points. Live preview, editable afterwards.",
     "pt": "Superfícies mínimas tensionadas a partir de um contorno de arestas: tendas, velas e almofadas com pressão, anéis de mastro, cabos e pontos fixos. Prévia ao vivo e editável depois."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "igz_modify3d",
+   "version": "1.0.1",
+   "author": "Ezequiel M Rezende",
+   "author_url": "https://github.com/em-rezende",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/em-rezende/Ingetrazo-igz-modify-3d",
+   "download": "https://github.com/em-rezende/Ingetrazo-igz-modify-3d/releases/download/v1.0.1/igz_modify3d.zip",
+   "sha256": "d469be60a0a20266ca29579a48249c434f12d939a22cebfc94e8f1532b3c9118",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "productivity",
+    "architecture"
+   ],
+   "screenshot": "igz_modify3d.png",
+   "name": {
+    "es": "Modificadores 3D",
+    "en": "3D Modifiers",
+    "pt": "Modificadores 3D"
+   },
+   "summary": {
+    "es": "Seis herramientas de edición 3D guiadas por puntos en una sola barra: Espejo, Escala, Rotación, Alineación, Matriz y Matriz polar, con previsualización en vivo, ajuste por snap y deshacer/rehacer.",
+    "en": "Six point-driven 3D editing tools in one toolbar: Mirror, Scale, Rotate, Align, Array and Polar Array, each with live preview, snapping and undo/redo.",
+    "pt": "Seis ferramentas de edição 3D guiadas por pontos numa única barra: Espelhar, Escalar, Rotacionar, Alinhar, Matriz e Matriz polar, com prévia ao vivo, snap e desfazer/refazer."
    },
    "reviewed": false
   },
