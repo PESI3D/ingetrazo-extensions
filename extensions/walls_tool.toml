@@ -1,0 +1,21 @@
+id = "walls_tool"
+version = "1.2"
+author = "Pesi (pesi3d.de)"
+author_url = "https://github.com/PESI3D"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/PESI3D/ingetrazo-walls"
+download = "https://github.com/PESI3D/ingetrazo-walls/releases/download/v1.2/walls_tool.py"
+sha256 = "5d57e5a62607d8d642b07efbb6a76122dd84b10e9574cfbef7d6719e9084cf8a"
+ingetrazo = "0.5.8"
+tags = ["architecture", "bim", "import-export"]
+screenshot = "walls_tool.webp"
+
+[name]
+es = "Muros desde la planta (Walls)"
+en = "Walls (masonry from floor plans)"
+pt = "Paredes a partir da planta (Walls)"
+
+[summary]
+es = "Crea los muros de una planta importada (PDF o DXF) como sólidos, con ventanas y puertas: preselección automática por estilo de línea o geometría, corrección con un clic, vista previa en vivo y un solo deshacer."
+en = "Builds the masonry of an imported floor plan (PDF or DXF) as solids, with windows and doors: walls preselected by line style or geometry, corrected with a click, live preview, one undo step."
+pt = "Cria as paredes de uma planta importada (PDF ou DXF) como sólidos, com janelas e portas: pré-seleção automática por estilo de linha ou geometria, correção com um clique, prévia ao vivo e um só desfazer."
