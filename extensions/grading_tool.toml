@@ -6,7 +6,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/PESI3D/ingetrazo-grading"
 download = "https://github.com/PESI3D/ingetrazo-grading/releases/download/v1.1/grading_tool.py"
 sha256 = "14f3d76f4791b65584d0272aff740e9ea62ce0164f1cc3646b59d2b1f63b9191"
-ingetrazo = "0.5.7"
+ingetrazo = "0.5.8"
 tags = ["terrain", "architecture"]
 screenshot = "grading_tool.webp"
 
