@@ -6,7 +6,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/PESI3D/ingetrazo-roof-tiles"
 download = "https://github.com/PESI3D/ingetrazo-roof-tiles/releases/download/v1.2.1/roof_tile_tool.py"
 sha256 = "f87b1cacebbc314303dde45dfb445c2455cfd5a476a54d547e4f9ec7c57a25c6"
-ingetrazo = "0.5.7"
+ingetrazo = "0.5.8"
 tags = ["architecture"]
 screenshot = "roof_tile_tool.webp"
 
