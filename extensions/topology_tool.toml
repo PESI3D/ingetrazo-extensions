@@ -1,12 +1,12 @@
 id = "topology_tool"
-version = "1.2"
+version = "1.2.1"
 author = "Pesi (pesi3d.de)"
 author_url = "https://github.com/PESI3D"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/PESI3D/ingetrazo-topology"
-download = "https://github.com/PESI3D/ingetrazo-topology/releases/download/v1.2/topology_tool_1.2.zip"
-sha256 = "84b29d09c2c6384e3b85cc9069cfd835159080b49debc52f8acc0a6bb76bcc40"
-ingetrazo = "0.5.7"
+download = "https://github.com/PESI3D/ingetrazo-topology/releases/download/v1.2.1/topology_tool_1.2.1.zip"
+sha256 = "d59e2206f84e62b6ce0374f33c0f4dad4b3ab38c4f33690e3fd03dd38ce56eb2"
+ingetrazo = "0.5.8"
 tags = ["terrain", "architecture", "import-export"]
 screenshot = "topology_tool.png"
 
