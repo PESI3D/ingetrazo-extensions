@@ -6,7 +6,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/PESI3D/ingetrazo-proxies"
 download = "https://github.com/PESI3D/ingetrazo-proxies/releases/download/v1.0/proxy_tool.py"
 sha256 = "ab5981e1b506bb2336aa88ef5282dfc14b5c7c24fb016f2c66353ead5f96f35a"
-ingetrazo = "0.5.7"
+ingetrazo = "0.5.8"
 tags = ["productivity", "rendering"]
 screenshot = "proxy_tool.webp"
 

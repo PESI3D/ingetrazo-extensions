@@ -1,12 +1,12 @@
 id = "array_tool"
-version = "1.2"
+version = "1.2.1"
 author = "Pesi (pesi3d.de)"
 author_url = "https://github.com/PESI3D"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/PESI3D/ingetrazo-array"
-download = "https://github.com/PESI3D/ingetrazo-array/releases/download/v1.2/array_tool.py"
-sha256 = "cf4cdb79ab0a3402d0f6f565886cdf3641fbcf9137b058c07b69c22bb8456a51"
-ingetrazo = "0.5.7"
+download = "https://github.com/PESI3D/ingetrazo-array/releases/download/v1.2.1/array_tool.py"
+sha256 = "331038c594bd6cf0b690bead65a61e89212d6ce63655f3231e8229c513cd719f"
+ingetrazo = "0.5.8"
 tags = ["productivity", "drawing"]
 screenshot = "array_tool.png"
 
